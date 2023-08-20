@@ -4,11 +4,24 @@
   
   
   <entry>
+    <title>日子3|CS61A</title>
+    <link href="/2023/08/20/%E6%97%A5%E5%AD%903-CS61A/"/>
+    <url>/2023/08/20/%E6%97%A5%E5%AD%903-CS61A/</url>
+    
+    <content type="html"><![CDATA[<h3 id="CS61A"><a href="#CS61A" class="headerlink" title="CS61A"></a>CS61A</h3><p>源于<a href="https://csdiy.wiki/">CS自学指南</a>的一份指南。<br>网上风评赞不绝口，我不知道怎样，先看着吧，尽管是带着滤镜，但学到东西总归是好的。学不到就当练听力了。<br>目前看完Lecture1，大致是介绍一下课程内容和安排，简短介绍了一下CS，随后谈到了代码问题，还是有些道理的。<br><img src="/image.png" alt="Alt text">            </p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>日子2|暴雨倾盆</title>
     <link href="/2023/08/19/%E6%97%A5%E5%AD%902-%E6%9A%B4%E9%9B%A8%E5%80%BE%E7%9B%86/"/>
     <url>/2023/08/19/%E6%97%A5%E5%AD%902-%E6%9A%B4%E9%9B%A8%E5%80%BE%E7%9B%86/</url>
     
-    <content type="html"><![CDATA[]]></content>
+    <content type="html"><![CDATA[<h3 id="数据结构"><a href="#数据结构" class="headerlink" title="数据结构"></a>数据结构</h3><p>看书的效果莫不是比视频的效果更佳？今天继续学链表(Java)，貌似学得太浅且太慢了，这也与基础和五六天才打开一次视频有关。。<br>看《大话数据结构》的比喻倒是浅显易懂，但代码难以理解。能不能存在一本通俗易懂的关于java语言的数据结构？</p><ul><li>你学数据结构是为了什么？</li><li>你要用哪种语言学？</li><li>你该怎么学习？</li></ul>]]></content>
     
     
     
